@@ -6,7 +6,7 @@ The following books were chosen for the analysis:
 The Adventures of Huckleberry Finn,
 The Adventures of Tom Sawyer,
 The Prince and the Pauper,
-Tom Sawyer Abroad,
+Tom Sawyer Abroad, 
 Tom Sawyer, Detective. 
 
 The script was written by Roland Rae. Additional credit goes to thesis supervisors Jane Klavan and Artjoms Šela. This was a magnificent and challenging project. Thank you for all the help.
