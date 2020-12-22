@@ -1,4 +1,4 @@
-# The following script will create three kids of graphs. 
+# The following script will create three kinds of graphs. 
 # Firstly, it will create individual graphs of the most frequent sentiment words in the five books by Mark Twain.
 # Secondly, it will create a graph that portrays the sentiment curves of the selected books. 
 # Thirdly, it will create one graph with the relative sentiment of the selected works by Mark Twain. 
